@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently working on [Proyecto final de JavaScript](https://github.com/SantiagoPenino/proyectoFinalJavascript)
+- 🔭 I’m currently working on [Final proyect of JavaScript](https://github.com/SantiagoPenino/proyectoFinalJavascript)
 
 - 🌱 I’m currently learning **React**
 
